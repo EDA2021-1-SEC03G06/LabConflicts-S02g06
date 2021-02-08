@@ -5,6 +5,8 @@ Este proyecto busca mostrar una posible forma de organizar el código que se va 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
 
 La estructura tiene los siguiente directorios y archivos:
+estudiante 1: Kaled Andres Correal Sosa 201920829 k.correal
+estudiante2: Pablo alejandro Guatibonza Briceño 202014393 P.guatibonza
 
 -App
 
